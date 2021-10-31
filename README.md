@@ -2,6 +2,19 @@
 <!-- LINK OF MED_BED: https://med-bed.000webhostapp.com/ -->
 New Link of MED_BED:https://med-bed.000webhostapp.com/
 
+To develop this website we have used some basic technologies like HTML, CSS, JAVASCRIPT, NODEJS, EXPRESS, MONGODB as database.
+
+HTML : HTML is the language for describing the structure of Web pages. HTML gives authors the means to: Publish online documents with headings, text, tables, lists, photos, etc.
+
+CSS :  CSS is used to add style to a web page by dictating how a site is displayed on a browser. CSS is unique in that it doesn't create any new elements, like HTML or JavaScript. Instead, it's a language used to style HTML.
+
+JAVASCRIPT: JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
+
+NODEJS: Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but         was designed with real-time, push-based architectures in mind.
+        You can go through this website to know more about it https://nodejs.org/en/about/
+
+
+
 Some Screenshots of website:
 
 HOMEPAGE
